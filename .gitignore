@@ -1,0 +1,14 @@
+.godot/
+*.tmp
+*.import
+export/
+
+# Local Python environments and generated tool output.
+venv/
+__pycache__/
+*.py[cod]
+tmp/
+rainline/
+
+# Blender backup files are not source assets.
+*.blend1

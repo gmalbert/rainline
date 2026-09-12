@@ -1,0 +1,122 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 25122
+  },
+  {
+    "path": "docs/01_GAME_DESIGN_DOCUMENT.md",
+    "bytes": 6314
+  },
+  {
+    "path": "docs/02_STORY_BIBLE.md",
+    "bytes": 9599
+  },
+  {
+    "path": "docs/03_WORLD_AND_TRACKS.md",
+    "bytes": 4017
+  },
+  {
+    "path": "docs/04_TECHNICAL_ARCHITECTURE.md",
+    "bytes": 4323
+  },
+  {
+    "path": "docs/05_CODE_AND_REPOSITORY_GUIDE.md",
+    "bytes": 2776
+  },
+  {
+    "path": "docs/06_VEHICLE_HANDLING_AND_BALANCE.md",
+    "bytes": 2564
+  },
+  {
+    "path": "docs/07_AI_GHOSTS_AND_TRAFFIC.md",
+    "bytes": 2153
+  },
+  {
+    "path": "docs/08_UI_UX_ACCESSIBILITY.md",
+    "bytes": 1837
+  },
+  {
+    "path": "docs/09_ART_AUDIO_AND_CONTENT_PIPELINE.md",
+    "bytes": 3162
+  },
+  {
+    "path": "docs/10_INTEGRATIONS_AND_SERVICES.md",
+    "bytes": 2573
+  },
+  {
+    "path": "docs/11_PRODUCTION_ROADMAP.md",
+    "bytes": 3414
+  },
+  {
+    "path": "docs/12_QA_RELEASE_AND_OPERATIONS.md",
+    "bytes": 2133
+  },
+  {
+    "path": "docs/13_ASSET_MANIFEST.md",
+    "bytes": 3029
+  },
+  {
+    "path": "docs/14_TELEMETRY_AND_PLAYTESTING.md",
+    "bytes": 1812
+  },
+  {
+    "path": "docs/15_STORE_MARKETING_AND_COMMUNITY.md",
+    "bytes": 1973
+  },
+  {
+    "path": "docs/BUG_REPORT_TEMPLATE.md",
+    "bytes": 299
+  },
+  {
+    "path": "docs/DECISION_LOG_TEMPLATE.md",
+    "bytes": 401
+  },
+  {
+    "path": "RELEASE_NOTES.md",
+    "bytes": 7578
+  },
+  {
+    "path": "godot_starter/START_HERE.md",
+    "bytes": 878
+  },
+  {
+    "path": "godot_starter/data/rainline_run_event.json",
+    "bytes": 402
+  },
+  {
+    "path": "godot_starter/project.godot",
+    "bytes": 1050
+  },
+  {
+    "path": "godot_starter/scenes/prototype.tscn",
+    "bytes": 748
+  },
+  {
+    "path": "godot_starter/scripts/arcade_car.gd",
+    "bytes": 5458
+  },
+  {
+    "path": "godot_starter/scripts/checkpoint.gd",
+    "bytes": 383
+  },
+  {
+    "path": "godot_starter/scripts/event_definition.gd",
+    "bytes": 466
+  },
+  {
+    "path": "godot_starter/scripts/ghost_player.gd",
+    "bytes": 1305
+  },
+  {
+    "path": "godot_starter/scripts/ghost_recorder.gd",
+    "bytes": 1344
+  },
+  {
+    "path": "godot_starter/scripts/race_manager.gd",
+    "bytes": 1747
+  },
+  {
+    "path": "godot_starter/scripts/save_service.gd",
+    "bytes": 1685
+  }
+]
