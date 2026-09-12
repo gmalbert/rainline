@@ -1,0 +1,18 @@
+{
+  "event_id": "rainline_run",
+  "display_name": "Rainline Run",
+  "type": "sprint",
+  "districts": ["crown_hill", "rainline_corridor", "harborfront", "blackwater_docks"],
+  "target_time_ms": {
+    "bronze": 180000,
+    "silver": 165000,
+    "gold": 150000
+  },
+  "story_chapter": "act_1",
+  "weather": "drizzle_night",
+  "traffic_seed": 10427,
+  "rewards": {
+    "credits": 500,
+    "rep": 100
+  }
+}

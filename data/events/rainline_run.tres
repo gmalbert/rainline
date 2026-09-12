@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="RaceEventDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/race/event_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+event_id = &"rainline_run"
+display_name = "Rainline Run"
+scene_path = "res://scenes/main.tscn"
+bronze_time_ms = 210000
+silver_time_ms = 180000
+gold_time_ms = 155000
+weather_profile = "drizzle_night"
+handling_version = "rainline_v1"

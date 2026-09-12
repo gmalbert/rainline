@@ -1,0 +1,25 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource path="res://scripts/arcade_car.gd" type="Script" id="1"]
+[ext_resource path="res://scripts/race_manager.gd" type="Script" id="2"]
+
+[sub_resource type="BoxShape3D" id="BoxShape_car"]
+size = Vector3(1.8, 0.8, 4.2)
+
+[node name="Prototype" type="Node3D"]
+
+[node name="RaceManager" type="Node" parent="."]
+script = ExtResource("2")
+checkpoint_count = 1
+
+[node name="Car" type="CharacterBody3D" parent="."]
+script = ExtResource("1")
+position = Vector3(0, 1, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Car"]
+shape = SubResource("BoxShape_car")
+
+[node name="Camera3D" type="Camera3D" parent="Car"]
+position = Vector3(0, 2.7, 7.0)
+rotation_degrees = Vector3(-10, 180, 0)
+current = true
